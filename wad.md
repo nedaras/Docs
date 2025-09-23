@@ -72,7 +72,7 @@ contiguous.
 
 Not present for entry headers before wad version 2.
 Checksum in WAD archives are hashed using 64-bit XXH64 with seed 0.
-Hashing [Entry headers](#entry-headers) ordered by its ``data offset in the WAD archive`` will produce this checksum.
+Hashing [Entry headers](#entry-headers) ordered by their ``data offset in the WAD archive`` will produce this checksum.
 
 ## Entry headers
 
